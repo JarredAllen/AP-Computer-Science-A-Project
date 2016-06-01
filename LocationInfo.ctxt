@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LocationInfo
+comment0.text=\r\n\ Represents\ a\ location\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ up\ down\ left\ right\ map
+comment1.target=LocationInfo(int,\ int,\ boolean,\ boolean,\ boolean,\ boolean,\ MapInfo)
+comment1.text=\r\n\ X\ and\ Y\ should\ be\ in\ co-ordinates\ where\ (6,6)\ and\ (7,6)\ can\ have\ a\ wall\ between\ them.\r\n
+comment10.params=
+comment10.target=MapInfo\ getMap()
+comment2.params=x\ y\ w
+comment2.target=LocationInfo(int,\ int,\ MazeWorld)
+comment2.text=\r\n\ X\ and\ Y\ should\ be\ in\ co-ordinates\ where\ (6,6)\ and\ (7,6)\ can\ have\ a\ wall\ between\ them.\r\n\ World\ is\ the\ world\ in\ which\ it\ represents\ a\ location\r\n
+comment3.params=x\ y\ parent
+comment3.target=LocationInfo(int,\ int,\ AITank)
+comment3.text=\r\n\ X\ and\ Y\ should\ be\ in\ co-ordinates\ where\ (6,6)\ and\ (7,6)\ can\ have\ a\ wall\ between\ them.\r\n\ Parent\ is\ the\ AITank\ relying\ on\ it\r\n
+comment4.params=
+comment4.target=boolean\ clearUp()
+comment5.params=
+comment5.target=boolean\ clearLeft()
+comment6.params=
+comment6.target=boolean\ clearDown()
+comment7.params=
+comment7.target=boolean\ clearRight()
+comment8.params=
+comment8.target=int\ x()
+comment9.params=
+comment9.target=int\ y()
+numComments=11

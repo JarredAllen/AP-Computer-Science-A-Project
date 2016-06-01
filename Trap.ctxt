@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Trap
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Trap\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=t
+comment1.target=Trap(Tank)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Trap\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ explode()
+comment5.params=
+comment5.target=int\ getID()
+comment6.params=
+comment6.target=Tank\ getCreator()
+numComments=7

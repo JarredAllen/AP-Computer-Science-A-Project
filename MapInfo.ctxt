@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MapInfo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MapInfo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=mzw
+comment1.target=MapInfo(MazeWorld)
+comment2.params=
+comment2.target=void\ fillMap()
+comment3.params=
+comment3.target=MapInfo\ clone()
+comment4.params=start\ end
+comment4.target=java.util.ArrayList\ path(LocationInfo,\ LocationInfo)
+comment4.text=\r\n\ Returns\ the\ path\ between\ the\ two\ locations.\ If\ no\ such\ path\ exists,\ it\ returns\ null.\r\n\ The\ path\ is\ an\ <code>ArrayList<Direction></code>\ with\ consecutive\ <code>Direction</code>\ objects\ combined\ if\ they\r\n\ are\ parallel.\r\n
+comment5.params=sX\ sY\ eX\ eY
+comment5.target=java.util.ArrayList\ path(int,\ int,\ int,\ int)
+comment6.params=li
+comment6.target=java.util.Set\ adjacent(LocationInfo)
+comment7.params=x\ y
+comment7.target=java.util.Set\ adjacent(int,\ int)
+comment8.params=x\ y
+comment8.target=java.util.Map\ unitPaths(int,\ int)
+comment9.params=li
+comment9.target=java.util.Map\ unitPaths(LocationInfo)
+numComments=10

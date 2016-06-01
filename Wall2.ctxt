@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Wall2
+comment1.params=
+comment1.target=boolean\ isWall2()
+comment2.params=
+comment2.target=void\ handleEdges()
+comment3.params=
+comment3.target=void\ discolor()
+numComments=4

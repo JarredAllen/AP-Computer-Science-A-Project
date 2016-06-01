@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=myList
+comment0.text=\r\n\ My\ extension\ on\ ArrayList.\r\n\ It\ does\ not\ accept\ nulls\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=initialCapacity
+comment1.target=myList(int)
+comment2.params=
+comment2.target=myList()
+comment3.params=e
+comment3.target=myList(java.lang.Object)
+comment4.params=e
+comment4.target=myList(java.util.Collection)
+comment5.params=e
+comment5.target=boolean\ add(java.lang.Object)
+comment6.params=i\ e
+comment6.target=void\ add(int,\ java.lang.Object)
+numComments=7

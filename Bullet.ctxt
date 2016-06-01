@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bullet\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Bullet()
+comment2.params=actors
+comment2.target=Bullet(java.util.Collection)
+comment3.params=c
+comment3.target=Bullet(Tank)
+comment4.params=t\ d
+comment4.target=Bullet(Tank,\ int)
+comment5.params=actors\ c\ d
+comment5.target=Bullet(java.util.Collection,\ Tank,\ int)
+comment6.params=w
+comment6.target=void\ addedToWorld(greenfoot.World)
+comment7.params=
+comment7.target=void\ act()
+comment8.params=
+comment8.target=Tank\ getTank()
+numComments=9

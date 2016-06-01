@@ -1,0 +1,1 @@
+taskkill -im Greenfoot.exe -f

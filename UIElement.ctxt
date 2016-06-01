@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=UIElement
+comment1.params=text\ size\ c
+comment1.target=UIElement(java.lang.String,\ int,\ java.awt.Color)
+comment2.params=text
+comment2.target=UIElement(java.lang.String)
+comment3.params=text\ size
+comment3.target=UIElement(java.lang.String,\ int)
+comment4.params=image
+comment4.target=UIElement(greenfoot.GreenfootImage)
+comment5.params=
+comment5.target=UIElement()
+comment6.params=text
+comment6.target=void\ changeText(java.lang.String)
+comment7.params=text\ fontSize
+comment7.target=void\ changeText(java.lang.String,\ int)
+numComments=8

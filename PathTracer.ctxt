@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PathTracer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PathTracer\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ignoreList
+comment1.target=PathTracer(java.util.Collection)
+comment2.params=
+comment2.target=PathTracer()
+comment3.params=
+comment3.target=Tank\ followPath()
+comment4.params=
+comment4.target=Tank\ lineOfSight()
+comment5.params=
+comment5.target=Tank\ followLaserPath()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

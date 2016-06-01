@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=hasExtension
+comment1.params=ext
+comment1.target=hasExtension(java.lang.String)
+comment1.text=\r\n\ @param\ ext\ does\ not\ include\ the\ <code>"."</code>.\r\n
+comment2.params=file
+comment2.target=boolean\ accept(java.io.File)
+numComments=3

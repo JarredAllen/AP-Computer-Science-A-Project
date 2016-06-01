@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=multithreadedActor
+comment0.text=\r\n\ Actor\ that\ automatically\ multithreads\ itself.\r\n\ The\ subclass\ is\ responsible\ for\ implementing\ the\ run\ method\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=multithreadedActor()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Creates\ a\ new\ thread\ and\ handles\ this\ tank\ acting\ in\ the\ new\ thread.\ </br>\r\n\ The\ run\ method\ should\ be\ implemented\ and\ given\ the\ code\ that\ would\ normally\ be\ in\ act.\r\n
+numComments=3

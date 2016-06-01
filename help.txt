@@ -1,0 +1,24 @@
+Welcome to Tank Trouble
+This batch script will provide instructions on how to play Tank Trouble
+I recommed reading this if you do not know how to play
+
+In this game, players play as tanks and try to kill each other
+Even one glancing hit by a bullet is fatal, so try to avoid being hit
+
+At the test drive world, you can play around with the tanks and see how the controls work.
+To get to it, click on the button from the main menu to start,
+then click the button labeled ^"Test Controls^".
+
+At the test drive screen, each player's controls are displayed
+The tank with a mouse picture below it is controlled by the mouse
+The other tanks have the keyboard controls displayed below them, formatted as such
+     forward      
+left  shoot  right
+       back       
+
+At the options screen, press the plus and minus arrows to increase or decrease the number of players,
+the amount of time, or the difficulty level of the AIs.
+A level 2 AI is very hard to beat, and having more than one level 2 AI WILL cause HEAVY lag.
+
+Congradulations! You have reached the end of the help file.
+You are now ready to play!
